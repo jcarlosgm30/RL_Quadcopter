@@ -8,7 +8,7 @@ In this project, I have designed an agent to take off a quadcopter, and then tra
 
 ```
 git clone https://github.com/jcarlosgm30/RL_Quadcopter.git
-cd RL-Quadcopter-2
+cd quadcopter
 ```
 
 2. Create and activate a new environment.
